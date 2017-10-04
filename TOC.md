@@ -11,6 +11,9 @@
   * Geonames (geolocalized names of place, geocoding)
   * https://openaddresses.io/ (adresses)
   * Mapilary & OpenStreetCam (Street view images)
+  * http://quattroshapes.com
+  * wikidata
+  * Geocoding in general...
   *  ...
 * Authoritative open geo data (governemental or from international institutions data)
   * in Wallonia
